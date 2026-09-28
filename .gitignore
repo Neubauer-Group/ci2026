@@ -1,0 +1,3 @@
+# Private attendee/contact exports (contain email addresses) — never publish
+csv/
+*.csv
